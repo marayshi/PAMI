@@ -74,4 +74,8 @@ class MessageWaitingEvent extends EventMessage
     {
         return $this->getKey('Waiting');
     }
+
+    public function getExten(){
+        return $this->getKey('Exten');
+    }
 }
