@@ -50,9 +50,10 @@ class ConfbridgeStartRecordAction extends ActionMessage
      *
      * @return void
      */
-    public function __construct($conference)
+    public function __construct($conference, $record_file)
     {
         parent::__construct('ConfbridgeStartRecord');
         $this->setKey('Conference', $conference);
+        $this->setKey('RecordFile', $record_file);
     }
 }
