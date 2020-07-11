@@ -12,6 +12,9 @@
 [![Issue Count](https://codeclimate.com/github/chan-sccp/PAMI/badges/issue_count.svg)](https://codeclimate.com/github/chan-sccp/PAMI)
 [![Click here to lend your support to: PAMI and make a donation at pledgie.com !](https://pledgie.com/campaigns/30944.png?skin_name=chrome' border='0')](https://pledgie.com/campaigns/30944)
 -->
+# Fork !
+Note that this is a fork of the official release by [dkgroot](https://github.com/chan-sccp/PAMI).
+
 
 # Fork !
 Note that this is a fork of the official release by [Marcelo Gornstein](https://github.com/marcelog/PAMI), which has not been maintained for a while (hence the fork).
