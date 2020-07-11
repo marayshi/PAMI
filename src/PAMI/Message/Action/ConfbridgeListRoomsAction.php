@@ -52,4 +52,9 @@ class ConfbridgeListRoomsAction extends ActionMessage
     {
         parent::__construct('ConfbridgeListRooms');
     }
+
+    public function getMuted()
+    {
+        return $this->getKey('Muted');
+    }
 }

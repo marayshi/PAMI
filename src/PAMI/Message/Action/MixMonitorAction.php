@@ -68,6 +68,18 @@ class MixMonitorAction extends ActionMessage
     }
 
     /**
+     * Sets Options key.
+     *
+     * @param string[] $command Command to use when hangup.
+     *
+     * @return void
+     */
+    public function setCommand($command)
+    {
+        $this->setKey('Command', $command);
+    }
+
+    /**
      * Constructor.
      *
      * @param string $channel Channel on which to act.
