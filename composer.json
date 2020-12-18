@@ -1,11 +1,17 @@
 {
-    "name": "chan-sccp/pami",
+    "name": "marayshi/pami",
     "type": "library",
     "description": "Asterisk Manager Interface (AMI) client for PHP, event driven, object oriented (Fork)",
-    "keywords": ["asterisk","ami","client","telephony","voip","event","action","manager","monitor", "chan-sccp"],
-    "homepage": "http://github.com/chan-sccp/PAMI",
+    "keywords": ["asterisk","ami","client","telephony","voip","event","action","manager","monitor","pami","marayshi"],
+    "homepage": "http://github.com/marayshi/PAMI/",
     "license": "Apache-2.0",
     "authors": [
+        {
+            "name": "Mohammed alarayshi",
+            "email": "mohammed@mobeelco.com",
+            "homepage": "http://github.com/marayshi/PAMI/",
+            "role": "Developer"
+        },
         {
             "name": "Diederik de Groot",
             "email": "ddegroot@talon.nl",
